@@ -1,0 +1,8 @@
+{
+  "name": "LoginApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "0ff5fa99"
+}
